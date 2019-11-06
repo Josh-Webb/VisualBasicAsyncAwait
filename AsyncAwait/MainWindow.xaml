@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Button Content="Start" HorizontalAlignment="Left" Margin="68,323,0,0" VerticalAlignment="Top" Width="75" Name="startButton"/>
+        <TextBox HorizontalAlignment="Left" Height="250" Margin="68,36,0,0" TextWrapping="Wrap" Text="Lucida Console" VerticalAlignment="Top" Width="500" Name="resultsTextBox"/>
+
     </Grid>
 </Window>
